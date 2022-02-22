@@ -4,7 +4,7 @@ The surprising response will be chosen from a list of surprising response types,
 - Chuck Norris Joke (user’s birth year is 2000 or before)
 - Kanye West Quote (user’s birth year is after 2000 and the user’s first name doesn’t start with ‘A’ or ‘Z’)
 - User Name’s Sum (user’s first name doesn’t start with ‘Q’)
-- panda-facts ()
+- panda-facts (user’s name is Nofar Vered)
 
 # In order to run the code, write the commands:
 
